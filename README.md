@@ -22,3 +22,30 @@ How might we help post-secondary students find events to enhance their career an
 
 ## Contributing
 We are open to new ideas and contributions from anyone interested in helping develop ExpoScout. If you have any suggestions or would like to contribute, please feel free to submit a pull request. Let's work together to create innovative solutions that make a difference!
+
+## Competitors
+Main competition is ticketbud and eventbrite.
+Brief description of Ticketbud
+Brief description of Eventbrite
+
+## Unique Values
+Why ExpoScout certain customers would choose Exposcout over competition
+More catered target audience (highschool / university students, new graduates)
+Focus towards education and networking
+Community and interaction component
+
+## Business model 
+- Profitability
+  Advertisements while startings website 
+- Scalability: 
+  Additional categories according to user interest a
+  advertising larger events. 
+  sponsorship feature which allows for companies willing to pay a premium to be recommended first, similar to how amazon has sponsored product at the top of searches.
+  
+  ## Team
+- Preet Asari
+  4th year Computer Science student at University of Regina pursing minors in CTCH. Learninig the designing process from software development background
+- Anaka Leong
+  1st Creative Technologies pursuing minors in Computer Science. Focusing on Graphics Designing & UI/UX 
+- Isabel Garcia: 
+  2nd year Computer Science student doing minors in CTCH at University of Regina. UI/UX and designing enthusiast, hoping to pursue future in designing
