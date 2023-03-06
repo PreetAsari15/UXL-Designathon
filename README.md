@@ -2,6 +2,13 @@
 
 Welcome to the Ideas for Designathon repository! In this project, we are brainstorming innovative ideas that could be developed into real-world solutions for common problems. One of the ideas we are exploring is Findathon or in our language _ExpoScout_.
 
+## Figma 
+
+https://www.figma.com/file/vhigFjDBC8pqS83hxYdXyI/ExpoScout?node-id=7%3A2&t=tcamAcaGJOJwZo6I-0
+
+![image](https://user-images.githubusercontent.com/99091837/223022011-c91d2359-6606-4787-994c-ce842b3bc6b6.png)
+
+
 ## ExpoScout
 ExpoScout is an app designed to help students, professionals, and enthusiasts network and collaborate on projects, making it easier for them to find future potential jobs. The app will provide a platform for participants to find competitions, career fairs, and business partners. Additionally, the app will enable users to connect with others in their field, join clubs, and attend networking events.
 
