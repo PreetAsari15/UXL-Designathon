@@ -6,7 +6,30 @@ Welcome to the Ideas for Designathon repository! In this project, we are brainst
 
 https://www.figma.com/file/vhigFjDBC8pqS83hxYdXyI/ExpoScout?node-id=7%3A2&t=GZYSdDj208JsYHG1-1
 
+## User flow & Sketches
+
+![image](https://user-images.githubusercontent.com/99091837/223024818-10033ec4-9589-49dc-9a78-a9517e77c0b2.png)
+
+### Personas 
+
+![image](https://user-images.githubusercontent.com/99091837/223024903-e995cee4-f10d-4d8c-b7f2-be16c01d102c.png)
+
+### Mood Board
+
+![image](https://user-images.githubusercontent.com/99091837/223025099-04eca954-d0a3-4de2-8772-1932fce5df85.png)
+
+## Wireframing
+
+![image](https://user-images.githubusercontent.com/99091837/223024623-2b0ea9a7-a3e2-4847-9ede-9ee68f796c89.png)
+
+## Prototype
+
 ![image](https://user-images.githubusercontent.com/99091837/223022011-c91d2359-6606-4787-994c-ce842b3bc6b6.png)
+
+![image](https://user-images.githubusercontent.com/99091837/223024218-accd2a51-637d-4c3d-8889-39243ab540db.png)
+
+![image](https://user-images.githubusercontent.com/99091837/223024397-97837baf-1995-4f56-9463-1929363b2e63.png)
+
 
 
 ## ExpoScout
