@@ -4,7 +4,7 @@ Welcome to the Ideas for Designathon repository! In this project, we are brainst
 
 ## Figma 
 
-https://www.figma.com/file/vhigFjDBC8pqS83hxYdXyI/ExpoScout?node-id=7%3A2&t=tcamAcaGJOJwZo6I-0
+https://www.figma.com/file/vhigFjDBC8pqS83hxYdXyI/ExpoScout?node-id=7%3A2&t=GZYSdDj208JsYHG1-1
 
 ![image](https://user-images.githubusercontent.com/99091837/223022011-c91d2359-6606-4787-994c-ce842b3bc6b6.png)
 
