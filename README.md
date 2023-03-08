@@ -1,6 +1,8 @@
-# Ideas for Designathon
+# ExpoScout
 
-Welcome to the Ideas for Designathon repository! In this project, we are brainstorming innovative ideas that could be developed into real-world solutions for common problems. One of the ideas we are exploring is Findathon or in our language _ExpoScout_.
+## Ideas for Designathon
+
+Welcome to the Ideas for Designathon repository! In this project, we are brainstorming innovative ideas that could be developed into real-world solutions. One of the ideas we are exploring is Findathon or in our language _ExpoScout_.
 
 ## Figma 
 
@@ -55,8 +57,6 @@ We are open to new ideas and contributions from anyone interested in helping dev
 
 ## Competitors
 Main competition is ticketbud and eventbrite.
-Brief description of Ticketbud
-Brief description of Eventbrite
 
 ## Unique Values
 Why ExpoScout certain customers would choose Exposcout over competition
